@@ -57,6 +57,5 @@ Power BI Desktop, Power Query (M), DAX
 
 - `Power_BI_USA_Sales_Dashboard.pbix` — the full report file
 
----
 
-*Repo link: to be added*
+
