@@ -50,7 +50,7 @@ Power BI Desktop, Power Query (M), DAX
 ## Demo
 
 <div align="center">
-  <img src="File_Gif_USA_Sales_Power_BI.gif" width="500" alt="App Demo">
+  <img src="File_Gif_USA_Sales_Power_BI.gif" width="720" alt="App Demo">
 </div>
 
 ## Files
